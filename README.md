@@ -1,6 +1,6 @@
 🌍 GIS desire Project for Humanity
 
-# A modern GIS 
+# GIS for RISK Analysis
 (Geographic Information Systems) 
 data analytics application for mapping, 
 risk analysis, and visualization. 
