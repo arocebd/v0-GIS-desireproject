@@ -1,6 +1,9 @@
 🌍 GIS desire Project for Humanity
 
-# A modern GIS (Geographic Information Systems) data analytics application for mapping, risk analysis, and visualization. 
+# A modern GIS 
+(Geographic Information Systems) 
+data analytics application for mapping, 
+risk analysis, and visualization. 
 
 Built with Next.js, TypeScript, and Open Source
 🚀 Live Demo
