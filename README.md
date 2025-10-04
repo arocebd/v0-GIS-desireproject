@@ -1,30 +1,46 @@
-# GIS Data Analytics
+🌍 GIS desire Project for Humanity
 
-*Automatically synced with your [v0.app](https://v0.app) deployments*
+# A modern GIS (Geographic Information Systems) data analytics application for mapping, risk analysis, and visualization. 
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/desirelovellcoms-projects/v0-gis-data-analytics)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/zmyZRupU5AT)
+Built with Next.js, TypeScript, and Open Source
+🚀 Live Demo
+🔗 View Deployed App
+📖 Overview
+This repository is automatically synced with your v0.app workspace. Any updates deployed through v0 are mirrored here and re-deployed to Vercel.
+Core goals of the project:
+📊 Interactive risk & threat analysis
+🗺️ GIS mapping and visualization
+🔎 Data-driven decision-making tools
+⚙️ Tech Stack
+Framework: Next.js + React
+Language: TypeScript
+Styling: TailwindCSS
+Deployment: Vercel
+Data Layer: Firebase / API integrations (planned)
+🛠️ Setup & Development
+Clone and run locally:
+# Clone repo
+git clone https://github.com/desirelovellcom/v0-GIS-desireproject.git
 
-## Overview
+# Navigate
+cd v0-GIS-desireproject
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+# Install dependencies
+pnpm install
 
-## Deployment
+# Run dev server
+pnpm dev
+Open http://localhost:3000 to view.
+📌 How It Works
+Build features in v0.app.
+Deploy directly from v0 → pushes code here.
+Vercel automatically redeploys latest version.
+🤝 Contributing
+Contributions, feedback, and ideas are welcome!
+Please fork the repo and submit pull requests.
+📜 License
+MIT License. Free to use and adapt.RupU5AT](https://v0.app/chat/projects/zmyZRupU5AT)**
 
-Your project is live at:
-
-**[https://vercel.com/desirelovellcoms-projects/v0-gis-data-analytics](https://vercel.com/desirelovellcoms-projects/v0-gis-data-analytics)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.app/chat/projects/zmyZRupU5AT](https://v0.app/chat/projects/zmyZRupU5AT)**
-
-## How It Works
-
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
+#face
 3. Changes are automatically pushed to this repository
 4. Vercel deploys the latest version from this repository
